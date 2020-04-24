@@ -3,7 +3,9 @@ A simple text encryption program writen in Python 3 using the [Vigenere Cipher](
 **Curenty only Greek Letters are supported**
 
 
-![logo]: (img/img.png "Test")
+![sample_image] (img/img.png)
+
+
 
 
 [Download executable file](Encryption.exe)
